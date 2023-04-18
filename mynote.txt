@@ -1,0 +1,2 @@
+utk membuat project node js bisa dengan menjalankan perintah:
+npm init
